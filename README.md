@@ -1,4 +1,4 @@
-# 🏠 Tiago Decorações
+# 🏠 Landing page Tiago Decorações
 
 Um projeto real de website institucional desenvolvido por Lucas Rosa utilizando HTML, CSS e JavaScript.
 O objetivo do site é apresentar os produtos da loja, contar a história da empresa e facilitar o contato direto com clientes.
